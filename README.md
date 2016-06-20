@@ -1,7 +1,8 @@
 # inotify_rsync
 a shell to real-time rsync
 
-
+### Prepare
+  make sure rsync and inotify-tools installed 
 
 ### Simple Rsycn Without Real-time 
 
