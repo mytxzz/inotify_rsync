@@ -10,7 +10,7 @@ a shell to real-time rsync
   ```
     # The source dir you want to rsync
     SRC=/home/danny/mycode/  
-    # The destination dir you want to rsync to.
+    # The destination dir you want to rsync to.
     DST=danny@10.249.6.45:/home/danny/test/
   ```     
   
