@@ -14,7 +14,7 @@ a shell to real-time rsync
     DST=danny@10.249.6.45:/home/danny/test/
   ```     
   
-### Simple Rsycn Without Real-time 
+### Simple Rsycn Once Without Real-time 
 
   /usr/bin/rsync --delete-after -avzP -e ssh danny@0.0.0.0:/home/danny/test/  /home/danny/test/ 
   
